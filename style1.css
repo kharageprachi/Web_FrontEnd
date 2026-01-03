@@ -1,0 +1,49 @@
+body
+	{
+	background-image: url(travel.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	}
+H1
+	{
+	font-size:50px;
+	text-align:center;
+	font-style: italic;
+	font-family: edwardian script ITC;
+	letter-spacing:5px;
+	margin-top:1px;
+	}
+H2
+	{
+	Font-size:50px;
+	color: white;
+	text-decoration-line: underline;
+	font-varient: smallcaps;
+	margin-top: 1px;
+	text-align:center;
+	letter-spacing:20px;
+	}
+.A
+	{
+	overflow:hidden;
+	}
+	a
+	{
+	float:left;
+	color:black;
+	padding-left:30px;
+	margin-top:0px;
+	}
+.B
+	ul
+	{
+	font-size:20px;
+	color:white;
+	}
+.C
+	li
+	{
+	color:white;
+	font-size:20px;
+	}
